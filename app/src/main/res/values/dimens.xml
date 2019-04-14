@@ -1,0 +1,155 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+    <!--Text sizes-->
+    <dimen name="text_13sp">13sp</dimen>
+
+    <dimen name="text_15sp">15sp</dimen>
+
+    <dimen name="text_16sp">16sp</dimen>
+
+    <dimen name="text_18sp">18sp</dimen>
+    <dimen name="text_19sp">19sp</dimen>
+    <dimen name="text_20sp">20sp</dimen>
+
+    <dimen name="text_22sp">22sp</dimen>
+
+    <dimen name="text_25sp">25sp</dimen>
+    <dimen name="text_24sp">24sp</dimen>
+    <dimen name="text_26sp">26sp</dimen>
+    <dimen name="text_28sp">28sp</dimen>
+    <dimen name="text_30sp">30sp</dimen>
+    <dimen name="text_32sp">32sp</dimen>
+    <dimen name="text_35sp">35sp</dimen>
+    <!--Margins-->
+
+    <dimen name="margin_0_5dp">0.5dp</dimen>
+
+    <dimen name="margin_0_7dp">0.7dp</dimen>
+
+    <dimen name="margin_1dp">1dp</dimen>
+
+    <dimen name="margin_2dp">2dp</dimen>
+
+    <dimen name="margin_3dp">3dp</dimen>
+
+    <dimen name="margin_4dp">4dp</dimen>
+
+    <dimen name="margin_5dp">5dp</dimen>
+
+    <dimen name="margin_8dp">8dp</dimen>
+
+    <dimen name="margin_10dp">10dp</dimen>
+
+    <dimen name="margin_12dp">12dp</dimen>
+
+    <dimen name="margin_14dp">14dp</dimen>
+
+    <dimen name="margin_15dp">15dp</dimen>
+
+    <dimen name="margin_20dp">20dp</dimen>
+
+    <dimen name="margin_25dp">25dp</dimen>
+
+    <dimen name="margin_30dp">30dp</dimen>
+
+    <dimen name="margin_35dp">35dp</dimen>
+
+    <dimen name="margin_40dp">40dp</dimen>
+
+    <dimen name="margin_45dp">45dp</dimen>
+
+    <dimen name="margin_48dp">48dp</dimen>
+
+    <dimen name="margin_50dp">50dp</dimen>
+
+    <dimen name="margin_55dp">55dp</dimen>
+
+    <dimen name="margin_60dp">60dp</dimen>
+
+    <dimen name="margin_65dp">65dp</dimen>
+
+    <dimen name="margin_70dp">70dp</dimen>
+
+    <dimen name="margin_80dp">80dp</dimen>
+    <dimen name="margin_100dp">100dp</dimen>
+    <dimen name="margin_120dp">120dp</dimen>
+    <dimen name="margin_200dp">200dp</dimen>
+    <dimen name="margin_250dp">250dp</dimen>
+
+    <dimen name="cross_size_on_your_are_dad">50dp</dimen>
+
+    <dimen name="half_margin_to_layout_according_to_cross">25dp</dimen>
+
+    <dimen name="crop__bar_height">56dp</dimen>
+
+    <dimen name="tab_text_size">12sp</dimen>
+
+    <dimen name="tab_image_size">17sp</dimen>
+
+    <dimen name="margin_12px">12px</dimen>
+
+    <dimen name="text_11sp">11sp</dimen>
+
+    <dimen name="text_12sp">12sp</dimen>
+
+    <dimen name="text_10sp">10sp</dimen>
+
+    <dimen name="text_9sp">9sp</dimen>
+
+    <dimen name="text_8sp">8sp</dimen>
+
+    <dimen name="text_7sp">7sp</dimen>
+
+    <dimen name="text_5sp">5sp</dimen>
+
+    <dimen name="text_14sp">14sp</dimen>
+    <dimen name="text_17sp">17sp</dimen>
+    <dimen name="profile_drawer_icon">40dp</dimen>
+
+    <dimen name="menu_drawer_divider_left_margin">15dp</dimen>
+    <dimen name="menu_drawer_category_divider_left_margin">63dp</dimen>
+    <dimen name="menu_drawer_sub_category_divider_left_margin">80dp</dimen>
+    <dimen name="menu_drawer_category_margin">63dp</dimen>
+    <dimen name="menu_drawer_sub_category_margin">80dp</dimen>
+    <dimen name="menu_list_item_height">48dp</dimen>
+
+    <!--START - Profile Section-->
+    <dimen name="profile_follow_text_14sp">14sp</dimen>
+    <dimen name="profile_follow_count_text_32sp">32sp</dimen>
+    <dimen name="profile_top_username_text_20sp">20sp</dimen>
+    <dimen name="profile_top_address_text_18sp">18sp</dimen>
+    <dimen name="profile_header_text_15sp">15sp</dimen>
+    <dimen name="profile_default_text_15sp">15sp</dimen>
+    <dimen name="profile_default_sub_text_14sp">14sp</dimen>
+    <dimen name="profile_toolbar_text_margin_15dp">10dp</dimen>
+    <!--<dimen name="horizontal_progess_text_size">12sp</dimen>-->
+    <dimen name="horizontal_progess_text_size">10sp</dimen>
+    <!-- END - Profile Section-->
+
+    <dimen name="detail_backdrop_height">280dp</dimen>
+    <dimen name="margin_7dp">7dp</dimen>
+    <dimen name="margin_6dp">6dp</dimen>
+    <dimen name="margin_17dp">17dp</dimen>
+    <dimen name="classified_base_template_body_padding_lr">8dp</dimen>
+    <dimen name="classified_base_template_body_padding_tb">12dp</dimen>
+
+    <!--Push Notification-->
+
+    <dimen name="notification_title_size">14dp</dimen>
+    <dimen name="notification_description_size">12dp</dimen>
+    <dimen name="notification_big_picture_size">120dp</dimen>
+    <dimen name="notification_big_image_size">175dp</dimen>
+    <dimen name="notification_action_button_text_size">16dp</dimen>
+    <dimen name="notification_image_text_size">12sp</dimen>
+    <dimen name="margin_22dp">22dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+</resources>
